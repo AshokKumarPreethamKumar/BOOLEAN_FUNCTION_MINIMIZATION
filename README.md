@@ -63,7 +63,7 @@ RegisterNumber:24002459
 
 **Timing Diagram**
 
-![image](https://github.com/user-attachments/assets/c88946aa-adde-408a-9a83-5865092f70b9)
+![timing diagram exp2](https://github.com/user-attachments/assets/d8aa92cf-3a50-4379-8c15-5f16f92aada3)
 
 
 **Result:**
